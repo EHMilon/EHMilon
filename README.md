@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm EHMilon</h1>
-<h3 align="center">A software Engineer from Bangladesh.</h3>
+<h1 align="center">Hi 👋, I'm Milon</h1>
+<h3 align="center">As a passionate CSE student, I have a deep love for programming and a relentless thirst for knowledge. Whether I'm diving into the latest tech trends or tinkering with new code, I'm always striving to expand my skills and grow as a developer. Join me on my journey to explore the endless possibilities of the digital world!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milon&label=Profile%20views&color=0e75b6&style=flat" alt="milon" /> </p>
 
