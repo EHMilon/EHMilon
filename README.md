@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Milon</h1>
-<h3 align="center">As a passionate CSE student, I have a deep love for programming and a relentless thirst for knowledge. Whether I'm diving into the latest tech trends or tinkering with new code, I'm always striving to expand my skills and grow as a developer. Join me on my journey to explore the endless possibilities of the digital world!</h3>
+<h3 align="center">A Software Engineer from Bangladesh.</h3>
+<h4 align="center">I have a deep love for programming and a relentless thirst for knowledge. I'm always trying to learn and improve my programming skills by exploring new technology trends and experimenting with different code. I'm Always seeking new challenges and opportunities to grow in the tech industry. #coding #learning #growth. <br>Join me on my journey to explore the endless possibilities of the digital world!</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milon&label=Profile%20views&color=0e75b6&style=flat" alt="milon" /> </p>
 
