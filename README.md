@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/milon" target="blank"><img src="https://img.shields.io/twitter/follow/milon?logo=twitter&style=for-the-badge" alt="milon" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, React**
+- 🌱 I’m currently learning **Flutter, Kotline**
 
 - 📫 How to reach me **ehasanulhaquemilon@gmail.com**
 
