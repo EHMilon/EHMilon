@@ -14,7 +14,7 @@
   <h2>✨ Project Showcase</h2>
 
   <!-- Project Cards Container -->
-  <div style="display: flex; overflow-x: auto; gap: 20px; padding: 20px 0;">
+  <div style="display: flex; overflow-x: auto; gap: 20px; padding: 20px 0;", align="center">
 
   <!-- Project 1 Card -->
   <div style="min-width: 300px; border: 1px solid #444; border-radius: 10px; padding: 15px;">
