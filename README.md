@@ -6,11 +6,11 @@
   </a>
 </h3>
 <hr>
-<p align="center">
+<p >
   Welcome to my GitHub profile! I'm a dedicated software engineer with a deep love for crafting robust and scalable solutions. I thrive on exploring new technologies, experimenting with code, and continuously enhancing my skills. My journey is driven by a relentless thirst for knowledge and a commitment to tackling complex challenges in the tech industry. Join me as I explore the endless possibilities of the digital world!
 </p>
 
-<div align="center">
+<div >
   <h2>✨ Project Showcase</h2>
 
   <!-- Project Cards Container -->
