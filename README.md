@@ -75,10 +75,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EHMilon&show_icons=true&locale=en&layout=compact&theme=github_dark" width="45%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EHMilon&theme=github_dark" width="42%"/>
 
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EHMilon&show_icons=true&locale=en&theme=github_dark" alt="milon" /></p>
-
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EHMilon&&theme=github_dark" alt="milon" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=EHMilon&show_icons=true&locale=en&layout=compact&theme=github_dark" width="42%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EHMilon&&theme=github_dark&layout=compact" width="45%"/>
 
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=EHMilon&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Patterns" width="90%"/>
