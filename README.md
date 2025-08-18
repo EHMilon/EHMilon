@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Milon</h1>
 <h3 align="center"> 
   <a href="https://git.io/typing-svg">
-    <img id="typing-animation" src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38BDD8&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+Google+Play+App+Publisher;Flutter+%7C+Kotlin+%7C+Node.js;Open-Source+and+AI+Enthusiast&center=true&size=28" alt="Typing SVG" onerror="document.getElementById('static-header').style.display='block';this.style.display='none'" />
+    <img id="typing-animation" src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38BDD8&center=true&vCenter=true&width=700&lines=Software+Dev+%7C+Google+Play+App+Publisher;Flutter+%7C+Kotlin+%7C+Node.js;Open-Source+and+AI+Enthusiast&center=true&size=28" alt="Typing SVG" onerror="document.getElementById('static-header').style.display='block';this.style.display='none'" />
   </a>
 </h3>
 <hr>
