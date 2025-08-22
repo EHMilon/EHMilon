@@ -10,13 +10,13 @@
   Welcome to my GitHub profile! I'm a dedicated software engineer with a deep love for crafting robust and scalable solutions. I thrive on exploring new technologies, experimenting with code, and continuously enhancing my skills. My journey is driven by a relentless thirst for knowledge and a commitment to tackling complex challenges in the tech industry. Join me as I explore the endless possibilities of the digital world!
 </p>
 
+<!--
 <div >
   <h2>✨ Project Showcase</h2>
 
-  <!-- Project Cards Container -->
+
   <div style="display: flex; overflow-x: auto; gap: 20px; padding: 20px 0;", align="center">
 
-  <!-- Project 1 Card -->
   <div style="min-width: 300px; border: 1px solid #444; border-radius: 10px; padding: 15px;">
   <h3>📱 Flutter E-Commerce</h3>
   <p>Complete shopping app with Firebase backend</p>
@@ -27,8 +27,7 @@
     <img src="https://img.shields.io/badge/View_Project-37B5E5?style=for-the-badge">
   </a>
   </div>
-
-  <!-- Project 2 Card -->
+ 
   <div style="min-width: 300px; border: 1px solid #444; border-radius: 10px; padding: 15px;">
   <h3>🏦 Kotlin Banking App</h3>
   <p>Secure mobile banking solution</p>
@@ -42,6 +41,7 @@
 
   </div>
 </div>
+-->
 
 <!-- ## 🎥 Project Demos
 <p align="center">
