@@ -97,13 +97,6 @@
 
 ## 🌐 Connect With Me
 <div align="center">
-  <a href="https://twitter.com/milon](https://x.com/EHMilon_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="milon" height="30" width="40" /></a>
-  <a href="[https://fb.com/eh milon](https://www.facebook.com/profile.php?id=61581266130099" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eh milon" height="30" width="40" /></a>
-  <a href="https://medium.com/@ehasanulhaquemilon" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ehasanulhaquemilon" height="30" width="40" /></a>
-
-</div>
-
-<div align="center">
   <a href="https://www.linkedin.com/in/ehsanul-haque-milon/" target="_blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="30" />
   </a>
