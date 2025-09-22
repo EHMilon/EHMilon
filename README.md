@@ -97,10 +97,33 @@
 
 ## 🌐 Connect With Me
 <div align="center">
-  <a href="https://twitter.com/milon" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="milon" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/20541176/eh-milon" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20541176/eh-milon" height="30" width="40" /></a>
-  <a href="https://fb.com/eh milon" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eh milon" height="30" width="40" /></a>
+  <a href="https://twitter.com/milon](https://x.com/EHMilon_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="milon" height="30" width="40" /></a>
+  <a href="[https://fb.com/eh milon](https://www.facebook.com/profile.php?id=61581266130099" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eh milon" height="30" width="40" /></a>
   <a href="https://medium.com/@ehasanulhaquemilon" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ehasanulhaquemilon" height="30" width="40" /></a>
 
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ehsanul-haque-milon/" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="30" />
+  </a>
+   <a href="[https://github.com/EHMilon](https://ehmilon.github.io/eh.milon/)" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+  <a href="https://x.com/EHMilon_" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" height="30" width="30" />
+  </a>
+  <a href="https://youtube.com/@eh-milon" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" height="30" width="30" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61581266130099" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" height="30" width="30" />
+  </a>
+  <a href="mailto:eh.milon.dev@gmail.com" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="30" width="30" />
+  </a>
+  <a href="https://play.google.com/store/apps/dev?id=4752570949582333302" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/google-play.png" alt="Google Play" height="30" width="30" />
+  </a>
 </div>
 
